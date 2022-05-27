@@ -1,6 +1,6 @@
 
 # Disaster Response Pipeline Project
-## by Github__
+## by cmg__
 ### Table of Contents
 
 1. [Summary](#Summary)
