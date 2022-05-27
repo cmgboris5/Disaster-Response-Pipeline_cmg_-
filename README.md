@@ -11,7 +11,6 @@
 ## Summary <a name="Summary"></a>
 
 ## File Description
-## File Description
 ~~~~~~~
         disaster_response_pipeline
           |-- app
