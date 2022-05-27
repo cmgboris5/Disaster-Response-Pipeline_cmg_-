@@ -1,5 +1,3 @@
-# Disaster Response Pipeline Project
-## _By: CMG_
 
 # Disaster Response Pipeline Project
 ## __
