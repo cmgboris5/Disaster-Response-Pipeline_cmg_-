@@ -32,6 +32,7 @@ Developing a web app that displays model results in real time.
 3- Go to http://0.0.0.0:3001/
 
 
-The project contains a web app on the following:
+## The project contains a web app on the following:
+
 ![Screenshot(01)](https://user-images.githubusercontent.com/103899117/170536793-df5720d2-6b48-4566-a383-fa7015cda0a7.png)
 ![Screenshot(02)](https://user-images.githubusercontent.com/103899117/170536796-a01e7e0e-e19d-4cc5-abb0-aadc8a1a8f99.png)
