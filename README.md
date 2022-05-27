@@ -3,8 +3,29 @@
 ## __
 ### Table of Contents
 
-1. [Introduction](#Introduction)  
-2. [Instructions](#Instructions) 
+1. [Summary](#Summary)
+2. [Introduction](#Introduction)  
+3. [Instructions](#Instructions) 
+
+## Summary <a name="Summary"></a>
+## File Description
+~~~~~~~
+        disaster_response_pipeline
+          |-- app
+                |-- templates
+                        |-- go.html
+                        |-- master.html
+                |-- run.py
+          |-- data
+                |-- disaster_message.csv
+                |-- disaster_categories.csv
+                |-- DisasterResponse.db
+                |-- process_data.py
+          |-- models
+                |-- classifier.pkl
+                |-- train_classifier.py
+          |-- README     
+      
 
 ## Introduction: <a name="introduction"></a>
 
@@ -12,7 +33,7 @@ The mission is to develop (NLP) model that can categorize communications in real
 
 This project in the following sections:
 
-Processing data, putting together an ETL pipeline to extract data from a source in collaboration with Figure Eight. Cleaning it up, and save it in a SQLite database.
+Processing data, putting together an ETL pipeline to extract data from a source in collaboration.  We will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages, cleaning it up, and save it in a SQLite database.
 
 Implement a machine learning pipeline to build a classifier that can classify text messages into different categories.
 Developing a web app that displays model results in real time.
@@ -30,6 +51,6 @@ Developing a web app that displays model results in real time.
 3- Go to http://0.0.0.0:3001/
 
 
-
+The project contains a web app on the following:
 ![Screenshot(01)](https://user-images.githubusercontent.com/103899117/170536793-df5720d2-6b48-4566-a383-fa7015cda0a7.png)
 ![Screenshot(02)](https://user-images.githubusercontent.com/103899117/170536796-a01e7e0e-e19d-4cc5-abb0-aadc8a1a8f99.png)
