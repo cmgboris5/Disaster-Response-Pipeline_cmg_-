@@ -11,22 +11,7 @@
 ## Summary <a name="Summary"></a>
 
 ## File Description
-~~~~~~~
-        disaster_response_pipeline
-          |-- app
-                |-- templates
-                        |-- go.html
-                        |-- master.html
-                |-- run.py
-          |-- data
-                |-- disaster_message.csv
-                |-- disaster_categories.csv
-                |-- DisasterResponse.db
-                |-- process_data.py
-          |-- models
-                |-- classifier.pkl
-                |-- train_classifier.py
-          |-- README     
+ 
       
 
 
