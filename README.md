@@ -33,7 +33,7 @@
 
 ## Introduction: <a name="introduction"></a>
 
-The mission is to develop (NLP) model that can categorize communications in real time. 
+Our mission is to develop (NLP) model that can categorize communications in real time. 
 
 This project in the following sections:
 Processing data, putting together an ETL pipeline to extract data from a source in collaboration.  We will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages. We will cleaning it up, and save it in a SQLite database.
