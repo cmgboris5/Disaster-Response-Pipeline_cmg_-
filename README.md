@@ -50,6 +50,7 @@ Developing a web app that displays model results in real time.
 
 2- Run the following command in the app’s directory to run your web app. 
     _python app/run.py_ 
+    
 3- Go to http://0.0.0.0:3001/
 
 
