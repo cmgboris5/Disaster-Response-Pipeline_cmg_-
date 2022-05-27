@@ -34,11 +34,8 @@
 ## Introduction: <a name="introduction"></a>
 
 The mission is to develop (NLP) model that can categorize communications in real time. 
-
 This project in the following sections:
-
 Processing data, putting together an ETL pipeline to extract data from a source in collaboration.  We will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages, cleaning it up, and save it in a SQLite database.
-
 Implement a machine learning pipeline to build a classifier that can classify text messages into different categories.
 Developing a web app that displays model results in real time.
 
